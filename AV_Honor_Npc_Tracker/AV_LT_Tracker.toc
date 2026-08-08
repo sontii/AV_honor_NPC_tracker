@@ -1,0 +1,7 @@
+## Interface: 11507
+## Title: AV Honor NPC Tracker
+## Notes: Tracks AV Lieutenants and Commanders HP and Targeting
+## Author: sontii78
+## Version: 1.1
+
+AV_LT_Tracker.lua
