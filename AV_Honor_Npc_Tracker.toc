@@ -2,6 +2,6 @@
 ## Title: AV Honor NPC Tracker
 ## Notes: Tracks AV Lieutenants and Commanders HP and Targeting
 ## Author: sontii78
-## Version: 1.1
+## Version: 1.2
 
 AV_Honor_Npc_Tracker.lua

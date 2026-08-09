@@ -72,7 +72,7 @@ local currentZone = nil
 
 -- Main window frame
 local mainFrame = CreateFrame("Frame", "AVTrackerMainFrame", UIParent, "BackdropTemplate")
-mainFrame:SetSize(130, (#TrackedNPCs * BUTTON_GAP) + 30 + BOSS_OFFSET + 10)
+mainFrame:SetSize(130, (#TrackedNPCs * BUTTON_GAP) + 30 + BOSS_OFFSET)
 mainFrame:SetPoint("CENTER", UIParent, "CENTER", 300, 0)
 mainFrame:SetMovable(true)
 mainFrame:EnableMouse(true)
